@@ -18,7 +18,7 @@ print(Name)
 print(Age)
 
 # Create an Environment or update to the latest Environment.
-#  Run a command in terminal 
+#  Run these commands in terminal 
 #  conda create --name myenv3_12 python=3.12
 #  conda env list
 #  conda activate myenv3_12
